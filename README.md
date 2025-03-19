@@ -1,4 +1,4 @@
-# UI Фонаря Configurator
+# Gekko UI
 
 Это Android-приложение позволяет настраивать пользовательский интерфейс (UI) фонаря через оптический канал с использованием UART-протокола. Приложение использует вспышку (LED фонаря) устройства для передачи конфигурационных данных в виде бинарных последовательностей, которыми можно настроить пользовательский интерфейс фонарей YLP [Gekko 1.0](https://ylplight.com/katalog/1/nalobnye-fonari/gekko-10/), [Gekko 1.1W](https://ylplight.com/katalog/1/nalobnye-fonari/gekko-1_1W/). Более подробно можно почитать [тут](https://forum.fonarevka.ru/showthread.php?t=46567)
 
